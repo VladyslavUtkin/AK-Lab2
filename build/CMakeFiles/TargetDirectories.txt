@@ -1,0 +1,4 @@
+/home/vladyslavutkin/AKlabs/lab2/build/CMakeFiles/rebuild_cache.dir
+/home/vladyslavutkin/AKlabs/lab2/build/CMakeFiles/out.dir
+/home/vladyslavutkin/AKlabs/lab2/build/CMakeFiles/edit_cache.dir
+/home/vladyslavutkin/AKlabs/lab2/build/CMakeFiles/calc.dir
